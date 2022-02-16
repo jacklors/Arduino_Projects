@@ -1,8 +1,8 @@
 // C++ code
 
 /* ===============================================================================================================
-  Projeto: Controle PWM de transmissão de empilhadeira com Arduino
-  Utilizado: Arduino UNO, Sensor Sharp GP2Y1014AU0F e módulo relé 2 canais
+  Projeto: Testando função randon().
+  Utilizado: Arduino UNO e led's.
 
                                      *****DESCRIÇÃO FUNCIONAMENTO*****
                                      
