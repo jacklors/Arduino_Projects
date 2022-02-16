@@ -31,10 +31,7 @@ void setup()
 
 void loop()
 {
-  //Através da onda PWM, acionada pela função (analogWrite (pino, valor)).  
-  //Iremos variar a intesidade do brilho dos led's com a utilização da onda quadrada com o duty cycle (ciclo de trabalho).
-  //Essa variação da onda em duty cicle desta funçao(analogWrite), vai de 0 (sempre desligado) para 255(sempre ligado).
-  //Para isso utilizaremos auxilio da função random(), para fazer essa variação de intesidade de forma randômica ou aleatória.
+
   
   Serial.println();
   analogWrite(ledorange, random(155));
