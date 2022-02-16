@@ -1,5 +1,13 @@
 // C++ code
-//Acende o led por 1 seg, e apaga por um 1seg, repetidamente.
+/* ===============================================================================================================
+  Projeto: Utilizando um interruptor, vamos acionar um led para piscar constantemente.
+  Utilizado: Arduino UNO, led e interruptor.
+
+                           *****DESCRIÇÃO FUNCIONAMENTO*****
+  Acende o led por 1 seg, e apaga por um 1seg, repetidamente, após acionamento o interruptor.
+  ===============================================================================================================*/
+
+// ================================== Variáveis e Constantes (Globais) ============================================ //
 
 int ledred = 13;//Declaração da variavel(ledred), direcioando ela para a numeração da saída da placa.
 int interruptor = 12;//Declaração da variavel(interruptor), direcioando ela para a numeração da saída da placa.
