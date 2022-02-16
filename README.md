@@ -1,3 +1,3 @@
-# Ard_proj
+# Arduino_Projects 
 
-Alguns projetos desenvolvidos durante meu processo de aprendizagem.
+Alguns projetos de códigos Arduino desenvolvidos durante meu processo de aprendizagem.
